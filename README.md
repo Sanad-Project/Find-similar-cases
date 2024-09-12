@@ -83,4 +83,6 @@ Feel free to use any docu from [CourtCases_pdf]() or put the text manually and t
 
 Note: Users can adjust the number of similar documents.
 
-## [Watch the video]()
+## Watch the video
+
+[DEMO](https://github.com/user-attachments/assets/bab000cb-c7cc-4eb0-bc36-8d47bc049b75)
