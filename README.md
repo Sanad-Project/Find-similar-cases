@@ -4,7 +4,11 @@ This project provides a tool to find similar legal documents by comparing text e
 
 ## Content
 
-
+1. [Overview](#overview)
+2. [How the Code Works](#how-the-code-works)
+3. [Dataset](#dataset)
+4. [Interact with API](#interact-with-api)
+5. [Watch the Demo](#watch-the-demo)
 ----
 
 ## Overview
@@ -64,7 +68,7 @@ This file provides a web interface using **Streamlit**: Allows users to either e
 
 ------
 
-## Datasets:
+## Dataset:
 
 There are many cases about  FAMILY LAW IN AUSTRALIA with `.pdf` extention.
 
@@ -72,7 +76,9 @@ honestly i get data in `.txt` extention but I use a small python script to conve
 
 **NOTE** **The data is about FAMILY LAW IN AUSTRALIA. Once i find the Egyption data related to legal courts, it is easy to use it.**
 
-## Interact with API
+----
+
+## Interact with API:
 I Build a treamlit app and connect it with Streamlit cloud to can be interacted with others.
 
 ### Access the App from this link: 
@@ -83,6 +89,8 @@ Feel free to use any docu from [CourtCases_pdf]() or put the text manually and t
 
 Note: Users can adjust the number of similar documents.
 
-## Watch the video
+----
+
+## Watch the Demo
 
 [DEMO](https://github.com/user-attachments/assets/bab000cb-c7cc-4eb0-bc36-8d47bc049b75)
